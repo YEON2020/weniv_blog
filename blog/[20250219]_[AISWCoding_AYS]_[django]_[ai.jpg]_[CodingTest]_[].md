@@ -3,7 +3,7 @@
 * hello world 1
 * hello world 2
 
-![AI_SW IMG](img/ai.jpg)
+![AI_SW](img/ai.jpg)
 
 ```python
 print('hello')
