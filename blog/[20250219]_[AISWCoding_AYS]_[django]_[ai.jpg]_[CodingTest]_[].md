@@ -2,3 +2,20 @@
 
 * hello world 1
 * hello world 2
+
+![AI_SW IMG](img/ai.jpg)
+
+```python
+print('hello')
+```
+
+```py
+print('hello')
+```
+
+```javascript
+console.log('hello')
+
+```js
+console.log('hello')
+```
